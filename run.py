@@ -16,7 +16,7 @@ cp = []
 ok = []
 
 # Pastikan Jangan Ubah Bot Komen & Follownya :v #
-ua = ('Lenovo-A850/S105 Linux/3.4.0 Android/4.2 Release/06.12.2013 Browser/AppleWebKit534.30 Profile/ Configuration/ Safari/534.30')
+ua = Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Kiwi Chrome/68.0.3438.0 Safari/537.36',
 logo = ("""\033[1;97m __  __  ____  ____
 (  \/  )(  _ \( ___)
  )    (  ) _ < )__)
@@ -125,7 +125,7 @@ def __menu__():
 	print(logo)
 	print('[•] Name : '+name)
 	print('[•] Birthday : '+birthday)
-	print('\n[1] Crack Dari Publik')
+	print('\n[1] Crack Dari Public')
 	print('[2] Crack Dari Follower')
 	print('[3] Lihat Hasil Crack')
 	print('[0] Keluar')
